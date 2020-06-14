@@ -1,0 +1,10 @@
+ini adalah file external.
+dan ini adalah baris ke-dua.
+
+data
+No  Nama
+1   Hanivan
+2   Rizky
+3   Sobari
+4   Ucup
+5   Otong
